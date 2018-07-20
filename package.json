@@ -1,0 +1,24 @@
+{
+  "name": "zadania_14_8",
+  "version": "1.0.0",
+  "description": "Wyszukiwarka Gifów\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001bów",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "gif",
+    "search",
+    "js"
+  ],
+  "author": "Przemek",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
