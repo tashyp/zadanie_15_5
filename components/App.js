@@ -1,5 +1,5 @@
-const GIPHY_API_URL = 'https://giphy.com/channel/przemeksaja93b4';
-const GIPHY_PUB_KEY = 'p3iM7CR78c01uM12qo9MNJvLH7ZrfEd5';
+var GIPHY_API_URL = 'https://giphy.com/channel/przemeksaja93b4';
+var GIPHY_PUB_KEY = 'p3iM7CR78c01uM12qo9MNJvLH7ZrfEd5';
 
 App = React.createClass({
     getInitialState() {
